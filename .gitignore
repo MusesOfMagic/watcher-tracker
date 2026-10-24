@@ -60,3 +60,32 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# macOS
+.DS_Store
+
+# Xcode build output
+DerivedData/
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+
+# Distribution folder
+dist/
+
+# Local testing files
+testing/
+
+# Pythion virtual environment
+ai-server/.venv/
+ai-server/__pycache__/
+ai-server/app/__pycache__/
+*.pyc
+
+# AI server
+.runtime/
+
+# Debugging
+debugging/
