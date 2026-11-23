@@ -2,7 +2,7 @@
 //  ChatGPTImageGeneratorView.swift
 //  WatcherTracker
 //
-//  Created by Helga Moore on 19/09/2026.
+//  Created by Muses of Magic on 19/09/2026.
 //
 
 import SwiftUI

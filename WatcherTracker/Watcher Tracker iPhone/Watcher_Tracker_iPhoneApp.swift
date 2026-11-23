@@ -2,7 +2,7 @@
 //  Watcher_Tracker_iPhoneApp.swift
 //  Watcher Tracker iPhone
 //
-//  Created by Helga Moore on 25/09/2026.
+//  Created by Muses of Magicon 25/09/2026.
 //
 
 import SwiftUI

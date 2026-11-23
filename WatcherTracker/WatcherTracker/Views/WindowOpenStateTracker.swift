@@ -2,7 +2,7 @@
 //  WindowOpenStateTracker.swift
 //  WatcherTracker
 //
-//  Created by Helga Moore on 16/09/2026.
+//  Created by Muses of Magic on 16/09/2026.
 //
 
 import SwiftUI

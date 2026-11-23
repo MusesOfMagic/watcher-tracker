@@ -2,7 +2,7 @@
 //  Watcher_Tracker_MobileApp.swift
 //  Watcher Tracker Mobile
 //
-//  Created by Helga Moore on 20/09/2026.
+//  Created by Muses of Magic on 20/09/2026.
 //
 
 import SwiftUI

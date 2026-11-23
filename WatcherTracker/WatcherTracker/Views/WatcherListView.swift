@@ -2,7 +2,7 @@
 //  WatcherListView.swift
 //  WatcherTracker
 //
-//  Created by Helga Moore on 15/09/2026.
+//  Created by Muses of Magic on 15/09/2026.
 //
 
 import SwiftUI

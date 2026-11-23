@@ -2,7 +2,7 @@
 //  DeviantArtUser.swift
 //  WatcherTracker
 //
-//  Created by Helga Moore on 26/09/2026.
+//  Created by Muses of Magic on 26/09/2026.
 //
 
 struct DeviantArtUser:

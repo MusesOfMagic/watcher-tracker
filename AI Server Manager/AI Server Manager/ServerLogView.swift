@@ -2,7 +2,7 @@
 //  ServerLogView.swift
 //  AI Server Manager
 //
-//  Created by Helga Moore on 18/09/2026.
+//  Created by Muses of Magic on 18/09/2026.
 //
 
 import SwiftUI
